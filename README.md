@@ -127,6 +127,8 @@ estimasi mobil dalam EUR :  [33720.47965492]
 14. Deployment
 
 [My App](https://ixqre6quu26xuof2fpry77.streamlit.app/).
+## Data set kaggle
+[File data sett](https://www.kaggle.com/datasets/doaaalsenani/usa-cers-dataset)
 ## tampilan 
-![Alt text](screencapture-mesinlearning-2-g2x6pjipkunnikmdapxaz4-streamlit-app-2023-11-01-09_23_26.png)
+![Foto](screencapture-mesinlearning-2-g2x6pjipkunnikmdapxaz4-streamlit-app-2023-11-01-09_23_26.png)
 
