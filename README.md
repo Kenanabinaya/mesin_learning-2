@@ -130,6 +130,5 @@ estimasi mobil dalam EUR :  [33720.47965492]
 ## Data set kaggle
 [File data sett](https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes?select=audi.csv)
 ## tampilan 
-![Foto](![foto tampilan apl](https://github.com/Kenanabinaya/mesin_learning-2/assets/149461005/77164736-7469-4a66-b43e-ee3d9e623475)
-)
+![foto tampilan apl](https://github.com/Kenanabinaya/mesin_learning-2/assets/149461005/77164736-7469-4a66-b43e-ee3d9e623475)
 
