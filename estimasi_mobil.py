@@ -10,9 +10,24 @@ mileage = st.number_input('input km mobil')
 tax = st.number_input('input pajak mobil')
 mpg = st.number_input('input konsumsi BBM mobil')
 engineSize = st.number_input('input Engine Size')
-Transmission =st.number_input('input transmission')
-fueltype =st.number_input('input fueltype')
-type = st.number_input('input model')
+Transmission_options = ['Manual', 'Automatic']
+Transmission = st.selectbox('Masukkan jenis Transmission', Transmission_options)
+if Transmission == 'Manual':
+    Transmission = 1
+else:
+    Transmission = 2
+fuelType_options = ['Petrol', 'Disel']
+fuelType = st.selectbox('Masukkan jenis Bahan Bakar', fuelType_options)
+if fuelType == 'Petrol':
+    fuelType = 1
+else:
+    fuelType = 2
+type_options = ['A1', 'A2']
+type = st.selectbox('Masukkan model kendaraan', type_options)
+if type == 'A1':
+    type = 1
+else:
+    type = 2
 
 predict = ''
 
